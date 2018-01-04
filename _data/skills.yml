@@ -1,18 +1,30 @@
 - skill:
-  name: Python & Django
-  level: 98%
-- skill:
-  name: Javascript & jQuery
-  level: 98%
-- skill:
-  name: Angular
-  level: 98%
-- skill:
-  name: HTML5 & CSS
+  name: Java, J2EE, Java Frameworks
   level: 95%
 - skill:
-  name: Ruby on Rails
+  name: Hadoop, Hive / Impala, Presto
+  level: 90%
+- skill:
+  name: Hbase, Flume, ElasticSearch, Spark, MR
   level: 85%
 - skill:
-  name: Sketch & Photoshop
-  level: 60%
+  name: AWS Stack
+  level: 70%
+- skill:
+  name: Python
+  level: 70%
+- skill:
+  name: Web, HTML, Javascript, Angular, jQuery
+  level: 85%
+- skill:
+  name: SQL
+  level: 90%
+- skill:
+  name: Bash
+  level: 85%
+- skill:
+  name: C#, ASP.NET, VB, VBA
+  level: 80%
+- skill:
+  name: Objective-C, iOS
+  level: 75%

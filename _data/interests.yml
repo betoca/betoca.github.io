@@ -1,9 +1,21 @@
 - interest:
-  item: Climbing
+  item: <i class="fa fa-music"></i> Music
   link:
 - interest:
-  item: Snowboarding
+  item: <i class="fa fa-bicycle"></i> Bicycle
   link:
 - interest:
-  item: Cooking
+  item: <i class="fa fa-suitcase"></i> Travel
+  link:
+- interest:
+  item: <i class="fa fa-snowflake-o"></i> Skiing
+  link:
+- interest:
+  item: <i class="fa fa-ticket"></i> Movies
+  link:
+- interest:
+  item: <i class="fa fa-gamepad"></i> Videogames
+  link:
+- interest:
+  item: <i class="fa fa-beer"></i> Friends
   link:
